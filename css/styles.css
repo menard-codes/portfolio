@@ -584,6 +584,23 @@ pre code {
   }
 }
 
+.about-highlight {
+  border-radius: 5px;
+  padding: 0 5px;
+  color: rgb(14, 119, 84);
+  background-color: rgb(224, 224, 224);
+}
+
+.about-link {
+  color: #7f7f7f;
+  text-decoration: underline 2px;
+}
+
+.about-link:hover {
+  color: rgb(27, 170, 122);
+  text-decoration: underline 3px;
+}
+
 .grid {
   display: grid;
   width: 70%;
